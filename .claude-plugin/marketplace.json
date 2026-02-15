@@ -1,0 +1,19 @@
+{
+  "name": "zachthedev",
+  "owner": { "name": "zachthedev" },
+  "metadata": {
+    "description": "Plugins by zachthedev"
+  },
+  "plugins": [
+    {
+      "name": "agentcord",
+      "source": { "source": "github", "repo": "zachthedev/agentcord" },
+      "description": "Discord Rich Presence for agentic coding tools — shows project, model, branch, tool activity, and API cost on your Discord profile",
+      "homepage": "https://github.com/zachthedev/agentcord",
+      "repository": "https://github.com/zachthedev/agentcord",
+      "license": "MIT",
+      "keywords": ["discord", "rich-presence", "rpc", "cost", "agentic"],
+      "category": "external-integrations"
+    }
+  ]
+}
